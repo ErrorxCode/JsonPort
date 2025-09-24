@@ -1,10 +1,10 @@
-# org.json-port
-org.json port for android. This port just have different package name then the orignal one so that android org.json does not conflicts with this external library.
+# org. json-port
+org.json port for Android. This port just has a different package name than the original one, so that android org.json does not conflict with this external library.
 
-## Ported implimentation
+## Ported implementation
 ```
-implementation 'com.github.ErrorxCode:JSON-java-port:20220320'
+implementation 'com.github.ErrorxCode:JSON-java-port:TAG'
 ```
+[![](https://jitpack.io/v/Errorxcode/JsonPort.svg)](https://jitpack.io/#Errorxcode/JsonPort)
 
-
-For more detials, [Visit official repo](https://github.com/stleary/JSON-java)
+For more details, [Visit official repo](https://github.com/stleary/JSON-java)
